@@ -2,9 +2,9 @@
 {
   "ads_enabled": true,
   "app_open_enabled": true,
-  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "app_open_id": "ca-app-pub-3940256099942544/",
   "banner_enabled": true,
-  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "banner_id": "ca-app-pub-3940256099942544/",
   "native_enabled": true,
-  "native_id": "ca-app-pub-3940256099942544/2247696110"
+  "native_id": "ca-app-pub-3940256099942544/"
 }
